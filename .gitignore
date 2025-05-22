@@ -172,3 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignorando a pasta que contem as imagens
+gender/

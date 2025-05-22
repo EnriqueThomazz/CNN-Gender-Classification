@@ -1,0 +1,5 @@
+https://www.tensorflow.org/tutorials/images/cnn?hl=pt-br
+
+https://rohan09.medium.com/building-and-using-a-convolutional-neural-network-cnn-for-image-classification-with-keras-and-7abf571f0abb
+
+https://keras.io/examples/vision/image_classification_from_scratch/
